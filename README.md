@@ -1,3 +1,5 @@
+Note: Load notebook file to local or goggle colab to see the result of model monitoring
+
 # CPE393-model-monitoring (References)
 
 https://github.com/evidentlyai/ml_observability_course
